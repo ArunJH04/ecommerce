@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": 1, "name": "vivo", "price": 12000, "count": 0 },
+    { "id": 2, "name": "samsung", "price": 20000, "count": 0 },
+    { "id": 3, "name": "i-phone", "price": 40000, "count": 0 }
+  ]
+}
